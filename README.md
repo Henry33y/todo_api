@@ -10,7 +10,7 @@ For more information about this project, visit the [Todo List API project on roa
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/todo_api.git
+    git clone https://github.com/Henry33y/todo_api.git
     cd todo_api
     ```
 
